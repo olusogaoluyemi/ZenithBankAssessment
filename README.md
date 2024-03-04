@@ -1,4 +1,4 @@
-**Steps to clone from Git repository and run the code using Visual Studio Code:**
+**Steps to access and run the assessment script/code using Visual Studio Code:**
 
 1. Download and Install Git: Through;  https://git-scm.com/ 
 
